@@ -1,426 +1,328 @@
 
 total-bonus-win.webp
-size: 2032,1158
+size: 904,1032
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-ui/coin/mc_coin_215_000
+ChatGPT Image Oct 24, 2025, 01_24_57 PM 1
   rotate: false
-  xy: 1702, 230
+  xy: 2, 661
+  size: 394, 115
+  orig: 394, 115
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 2, 778
+  size: 500, 252
+  orig: 500, 300
+  offset: 0, 5
+  index: -1
+gold/0
+  rotate: false
+  xy: 824, 684
   size: 77, 80
   orig: 100, 100
   offset: 13, 10
   index: -1
-ui/coin/mc_coin_215_001
+gold/1
   rotate: false
-  xy: 1702, 312
+  xy: 819, 521
   size: 80, 80
   orig: 100, 100
   offset: 10, 10
   index: -1
-ui/coin/mc_coin_215_002
-  rotate: false
-  xy: 1784, 396
-  size: 80, 80
-  orig: 100, 100
-  offset: 10, 10
-  index: -1
-ui/coin/mc_coin_215_003
-  rotate: false
-  xy: 1702, 394
-  size: 80, 82
-  orig: 100, 100
-  offset: 10, 8
-  index: -1
-ui/coin/mc_coin_215_004
-  rotate: false
-  xy: 1784, 315
-  size: 76, 79
-  orig: 100, 100
-  offset: 10, 11
-  index: -1
-ui/coin/mc_coin_215_005
-  rotate: false
-  xy: 1866, 397
-  size: 74, 79
-  orig: 100, 100
-  offset: 10, 11
-  index: -1
-ui/coin/mc_coin_215_006
-  rotate: false
-  xy: 1942, 397
-  size: 70, 79
-  orig: 100, 100
-  offset: 11, 11
-  index: -1
-ui/coin/mc_coin_215_007
+gold/10
   rotate: true
-  xy: 1702, 2
-  size: 64, 79
-  orig: 100, 100
-  offset: 13, 11
-  index: -1
-ui/coin/mc_coin_215_008
-  rotate: false
-  xy: 1781, 230
-  size: 58, 80
-  orig: 100, 100
-  offset: 16, 10
-  index: -1
-ui/coin/mc_coin_215_009
-  rotate: false
-  xy: 1841, 233
-  size: 50, 80
-  orig: 100, 100
-  offset: 20, 10
-  index: -1
-ui/coin/mc_coin_215_010
-  rotate: false
-  xy: 1846, 151
+  xy: 286, 24
   size: 43, 80
   orig: 100, 100
   offset: 24, 10
   index: -1
-ui/coin/mc_coin_215_011
+gold/11
   rotate: false
-  xy: 1891, 151
+  xy: 864, 119
   size: 34, 80
   orig: 100, 100
   offset: 30, 10
   index: -1
-ui/coin/mc_coin_215_012
+gold/12
   rotate: true
-  xy: 1866, 367
+  xy: 742, 652
   size: 28, 80
   orig: 100, 100
   offset: 35, 10
   index: -1
-ui/coin/mc_coin_215_013
+gold/13
   rotate: true
-  xy: 1948, 366
+  xy: 133, 22
   size: 29, 80
   orig: 100, 100
   offset: 37, 10
   index: -1
-ui/coin/mc_coin_215_014
+gold/14
   rotate: false
-  xy: 1893, 240
+  xy: 827, 119
   size: 35, 80
   orig: 100, 100
   offset: 36, 10
   index: -1
-ui/coin/mc_coin_215_015
+gold/15
   rotate: true
-  xy: 1862, 322
+  xy: 450, 24
   size: 43, 80
   orig: 100, 100
   offset: 33, 10
   index: -1
-ui/coin/mc_coin_215_016
-  rotate: true
-  xy: 1783, 14
+gold/16
+  rotate: false
+  xy: 844, 787
   size: 52, 80
   orig: 100, 100
   offset: 29, 10
   index: -1
-ui/coin/mc_coin_215_017
+gold/17
   rotate: false
-  xy: 1774, 68
+  xy: 810, 201
   size: 59, 79
   orig: 100, 100
   offset: 26, 10
   index: -1
-ui/coin/mc_coin_215_018
-  rotate: false
-  xy: 1778, 149
+gold/18
+  rotate: true
+  xy: 760, 6
   size: 66, 79
   orig: 100, 100
   offset: 22, 10
   index: -1
-ui/coin/mc_coin_215_019
-  rotate: false
-  xy: 1702, 68
+gold/19
+  rotate: true
+  xy: 679, 2
   size: 70, 79
   orig: 100, 100
   offset: 19, 10
   index: -1
-ui/coin/mc_coin_215_020
+gold/2
   rotate: false
-  xy: 1702, 149
+  xy: 819, 439
+  size: 80, 80
+  orig: 100, 100
+  offset: 10, 10
+  index: -1
+gold/20
+  rotate: false
+  xy: 810, 282
   size: 74, 79
   orig: 100, 100
   offset: 16, 10
   index: -1
-vfx/liquid00
+gold/3
   rotate: false
-  xy: 2, 993
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
+  xy: 742, 682
+  size: 80, 82
+  orig: 100, 100
+  offset: 10, 8
   index: -1
-vfx/liquid01
+gold/4
   rotate: false
-  xy: 2, 828
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
+  xy: 824, 603
+  size: 76, 79
+  orig: 100, 100
+  offset: 10, 11
   index: -1
-vfx/liquid02
-  rotate: false
-  xy: 342, 993
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid03
-  rotate: false
-  xy: 2, 663
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid04
-  rotate: false
-  xy: 342, 828
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid05
-  rotate: false
-  xy: 682, 993
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid06
-  rotate: false
-  xy: 2, 498
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid07
-  rotate: false
-  xy: 342, 663
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid08
-  rotate: false
-  xy: 682, 828
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid09
-  rotate: false
-  xy: 1022, 993
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid10
-  rotate: false
-  xy: 2, 333
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid11
-  rotate: false
-  xy: 342, 498
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid12
-  rotate: false
-  xy: 682, 663
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid13
-  rotate: false
-  xy: 1022, 828
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid14
-  rotate: false
-  xy: 1362, 993
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid15
-  rotate: false
-  xy: 2, 168
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid16
-  rotate: false
-  xy: 342, 333
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid17
-  rotate: false
-  xy: 682, 498
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid18
-  rotate: false
-  xy: 1022, 663
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid19
-  rotate: false
-  xy: 1362, 828
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid20
-  rotate: false
-  xy: 2, 3
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid21
-  rotate: false
-  xy: 342, 168
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid22
-  rotate: false
-  xy: 682, 333
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid23
-  rotate: false
-  xy: 1022, 498
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid24
-  rotate: false
-  xy: 1362, 663
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid25
+gold/5
   rotate: true
-  xy: 1702, 818
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
+  xy: 819, 363
+  size: 74, 79
+  orig: 100, 100
+  offset: 10, 11
   index: -1
-vfx/liquid26
-  rotate: false
-  xy: 342, 3
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid27
-  rotate: false
-  xy: 682, 168
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid28
-  rotate: false
-  xy: 1022, 333
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid29
-  rotate: false
-  xy: 1362, 498
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid30
+gold/6
   rotate: true
-  xy: 1867, 818
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
+  xy: 598, 2
+  size: 70, 79
+  orig: 100, 100
+  offset: 11, 11
   index: -1
-vfx/liquid31
+gold/7
   rotate: false
-  xy: 682, 3
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
+  xy: 838, 951
+  size: 64, 79
+  orig: 100, 100
+  offset: 13, 11
   index: -1
-vfx/liquid32
+gold/8
   rotate: false
-  xy: 1022, 168
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
+  xy: 844, 869
+  size: 58, 80
+  orig: 100, 100
+  offset: 16, 10
   index: -1
-vfx/liquid33
-  rotate: false
-  xy: 1362, 333
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
-  index: -1
-vfx/liquid34
+gold/9
   rotate: true
-  xy: 1702, 478
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
+  xy: 368, 17
+  size: 50, 80
+  orig: 100, 100
+  offset: 20, 10
   index: -1
-vfx/liquid35
+wave/Combined Advanced Liquid Element 20/wave_00000
   rotate: false
-  xy: 1022, 3
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
+  xy: 901, 600
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
   index: -1
-vfx/liquid36
+wave/Combined Advanced Liquid Element 20/wave_00022
   rotate: false
-  xy: 1362, 168
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
+  xy: 901, 600
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
   index: -1
-vfx/liquid37
+wave/Combined Advanced Liquid Element 20/wave_00001
+  rotate: false
+  xy: 670, 330
+  size: 130, 53
+  orig: 400, 225
+  offset: 135, 42
+  index: -1
+wave/Combined Advanced Liquid Element 20/wave_00002
+  rotate: false
+  xy: 638, 74
+  size: 187, 94
+  orig: 400, 225
+  offset: 107, 43
+  index: -1
+wave/Combined Advanced Liquid Element 20/wave_00003
+  rotate: false
+  xy: 582, 170
+  size: 226, 144
+  orig: 400, 225
+  offset: 87, 40
+  index: -1
+wave/Combined Advanced Liquid Element 20/wave_00004
   rotate: true
-  xy: 1867, 478
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
+  xy: 670, 385
+  size: 264, 147
+  orig: 400, 225
+  offset: 68, 40
   index: -1
-vfx/liquid38
+wave/Combined Advanced Liquid Element 20/wave_00005
   rotate: false
-  xy: 1362, 3
-  size: 338, 163
-  orig: 350, 170
-  offset: 6, 4
+  xy: 286, 164
+  size: 294, 150
+  orig: 400, 225
+  offset: 53, 40
+  index: -1
+wave/Combined Advanced Liquid Element 20/wave_00006
+  rotate: true
+  xy: 133, 53
+  size: 305, 151
+  orig: 400, 225
+  offset: 48, 39
+  index: -1
+wave/Combined Advanced Liquid Element 20/wave_00007
+  rotate: false
+  xy: 2, 360
+  size: 316, 149
+  orig: 400, 225
+  offset: 42, 39
+  index: -1
+wave/Combined Advanced Liquid Element 20/wave_00008
+  rotate: false
+  xy: 2, 511
+  size: 320, 148
+  orig: 400, 225
+  offset: 40, 38
+  index: -1
+wave/Combined Advanced Liquid Element 20/wave_00009
+  rotate: false
+  xy: 504, 888
+  size: 332, 142
+  orig: 400, 225
+  offset: 34, 38
+  index: -1
+wave/Combined Advanced Liquid Element 20/wave_00010
+  rotate: true
+  xy: 2, 22
+  size: 336, 129
+  orig: 400, 225
+  offset: 32, 38
+  index: -1
+wave/Combined Advanced Liquid Element 20/wave_00011
+  rotate: false
+  xy: 504, 766
+  size: 338, 120
+  orig: 400, 225
+  offset: 31, 36
+  index: -1
+wave/Combined Advanced Liquid Element 20/wave_00012
+  rotate: false
+  xy: 398, 651
+  size: 342, 113
+  orig: 400, 225
+  offset: 29, 33
+  index: -1
+wave/Combined Advanced Liquid Element 20/wave_00013
+  rotate: false
+  xy: 324, 552
+  size: 344, 97
+  orig: 400, 225
+  offset: 28, 29
+  index: -1
+wave/Combined Advanced Liquid Element 20/wave_00014
+  rotate: false
+  xy: 320, 388
+  size: 341, 88
+  orig: 400, 225
+  offset: 30, 28
+  index: -1
+wave/Combined Advanced Liquid Element 20/wave_00015
+  rotate: false
+  xy: 324, 478
+  size: 344, 72
+  orig: 400, 225
+  offset: 28, 28
+  index: -1
+wave/Combined Advanced Liquid Element 20/wave_00016
+  rotate: false
+  xy: 320, 316
+  size: 348, 70
+  orig: 400, 225
+  offset: 26, 28
+  index: -1
+wave/Combined Advanced Liquid Element 20/wave_00017
+  rotate: false
+  xy: 286, 112
+  size: 350, 50
+  orig: 400, 225
+  offset: 25, 44
+  index: -1
+wave/Combined Advanced Liquid Element 20/wave_00018
+  rotate: false
+  xy: 2, 2
+  size: 348, 18
+  orig: 400, 225
+  offset: 26, 62
+  index: -1
+wave/Combined Advanced Liquid Element 20/wave_00019
+  rotate: false
+  xy: 286, 96
+  size: 350, 14
+  orig: 400, 225
+  offset: 25, 59
+  index: -1
+wave/Combined Advanced Liquid Element 20/wave_00020
+  rotate: false
+  xy: 286, 81
+  size: 309, 13
+  orig: 400, 225
+  offset: 46, 54
+  index: -1
+wave/Combined Advanced Liquid Element 20/wave_00021
+  rotate: false
+  xy: 286, 69
+  size: 310, 10
+  orig: 400, 225
+  offset: 45, 50
   index: -1

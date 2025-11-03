@@ -1,195 +1,188 @@
 
-exportAtlas.webp
+winning-animation.png
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-win00
-  rotate: false
-  xy: 106, 300
-  size: 140, 140
-  orig: 140, 140
+_wh/wh_vfx_a_normal
+  rotate: true
+  xy: 231, 1483
+  size: 277, 279
+  orig: 277, 279
   offset: 0, 0
   index: -1
-win01
-  rotate: false
-  xy: 295, 15
-  size: 140, 140
-  orig: 140, 140
+_wh/wh_vfx_c_normal
+  rotate: true
+  xy: 2, 1551
+  size: 209, 227
+  orig: 209, 227
   offset: 0, 0
   index: -1
-win02
+_wh/wh_vfx_d_add_00
   rotate: false
-  xy: 150, 588
-  size: 140, 140
-  orig: 140, 140
+  xy: 512, 1410
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win03
+_wh/wh_vfx_d_add_01
   rotate: false
-  xy: 294, 596
-  size: 140, 140
-  orig: 140, 140
+  xy: 864, 1410
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win04
+_wh/wh_vfx_d_add_02
   rotate: false
-  xy: 438, 596
-  size: 140, 140
-  orig: 140, 140
+  xy: 1216, 1410
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win05
+_wh/wh_vfx_d_add_03
   rotate: false
-  xy: 582, 596
-  size: 140, 140
-  orig: 140, 140
+  xy: 1568, 1410
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win06
+_wh/wh_vfx_d_add_04
   rotate: false
-  xy: 685, 147
-  size: 140, 140
-  orig: 140, 140
+  xy: 2, 1131
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win07
+_wh/wh_vfx_d_add_05
   rotate: false
-  xy: 596, 448
-  size: 140, 140
-  orig: 140, 140
+  xy: 354, 1058
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win08
+_wh/wh_vfx_d_add_06
   rotate: false
-  xy: 729, 3
-  size: 140, 140
-  orig: 140, 140
+  xy: 706, 1058
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win09
+_wh/wh_vfx_d_add_07
   rotate: false
-  xy: 689, 291
-  size: 140, 140
-  orig: 140, 140
+  xy: 1058, 1058
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win10
+_wh/wh_vfx_d_add_08
   rotate: false
-  xy: 726, 592
-  size: 140, 140
-  orig: 140, 140
+  xy: 1410, 1058
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win11
+_wh/wh_vfx_d_add_09
   rotate: false
-  xy: 12, 732
-  size: 140, 140
-  orig: 140, 140
+  xy: 2, 779
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win12
+_wh/wh_vfx_d_add_10
   rotate: false
-  xy: 156, 740
-  size: 140, 140
-  orig: 140, 140
+  xy: 354, 706
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win13
+_wh/wh_vfx_d_add_11
   rotate: false
-  xy: 542, 304
-  size: 140, 140
-  orig: 140, 140
+  xy: 706, 706
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win14
+_wh/wh_vfx_d_add_12
   rotate: false
-  xy: 300, 740
-  size: 140, 140
-  orig: 140, 140
+  xy: 1058, 706
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win15
+_wh/wh_vfx_d_add_13
   rotate: false
-  xy: 444, 740
-  size: 140, 140
-  orig: 140, 140
+  xy: 1410, 706
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win16
+_wh/wh_vfx_d_add_14
   rotate: false
-  xy: 250, 296
-  size: 140, 140
-  orig: 140, 140
+  xy: 2, 427
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win17
+_wh/wh_vfx_d_add_15
   rotate: false
-  xy: 439, 9
-  size: 140, 140
-  orig: 140, 140
+  xy: 354, 354
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win18
+_wh/wh_vfx_d_add_16
   rotate: false
-  xy: 394, 164
-  size: 140, 140
-  orig: 140, 140
+  xy: 706, 354
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win19
+_wh/wh_vfx_d_add_17
   rotate: false
-  xy: 16, 444
-  size: 140, 140
-  orig: 140, 140
+  xy: 1058, 354
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win20
+_wh/wh_vfx_d_add_18
   rotate: false
-  xy: 538, 158
-  size: 140, 140
-  orig: 140, 140
+  xy: 1410, 354
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win21
+_wh/wh_vfx_d_add_19
   rotate: false
-  xy: 306, 452
-  size: 140, 140
-  orig: 140, 140
+  xy: 2, 75
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win22
+_wh/wh_vfx_d_add_20
   rotate: false
-  xy: 450, 452
-  size: 140, 140
-  orig: 140, 140
+  xy: 354, 2
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win23
+_wh/wh_vfx_d_add_21
   rotate: false
-  xy: 6, 588
-  size: 140, 140
-  orig: 140, 140
+  xy: 706, 2
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win24
+_wh/wh_vfx_d_add_22
   rotate: false
-  xy: 160, 444
-  size: 140, 140
-  orig: 140, 140
+  xy: 1058, 2
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-win26
+_wh/wh_vfx_d_add_23
   rotate: false
-  xy: 398, 308
-  size: 140, 140
-  orig: 140, 140
-  offset: 0, 0
-  index: -1
-win25
-  rotate: false
-  xy: 583, 3
-  size: 140, 140
-  orig: 140, 140
+  xy: 1410, 2
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
