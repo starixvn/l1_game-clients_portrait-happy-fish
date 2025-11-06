@@ -761,7 +761,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 2,
+      "y": -0.886,
       "z": 0
     },
     "_lrot": {
@@ -1793,8 +1793,6 @@
       "__id__": 0
     },
     "fileId": "68e7Xay71ONaxeljceS1XH",
-    "instance": null,
-    "targetOverrides": null,
     "nestedPrefabInstanceRoots": null
   },
   {
