@@ -1,0 +1,13 @@
+
+bg-decor.webp
+size: 790,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+song-bg
+  rotate: false
+  xy: 2, 2
+  size: 786, 514
+  orig: 786, 536
+  offset: 0, 11
+  index: -1
