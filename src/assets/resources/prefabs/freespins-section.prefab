@@ -25,9 +25,6 @@
     "_active": true,
     "_components": [
       {
-        "__id__": 40
-      },
-      {
         "__id__": 42
       },
       {
@@ -35,10 +32,13 @@
       },
       {
         "__id__": 46
+      },
+      {
+        "__id__": 48
       }
     ],
     "_prefab": {
-      "__id__": 48
+      "__id__": 50
     },
     "_lpos": {
       "__type__": "cc.Vec3",
@@ -95,10 +95,13 @@
       },
       {
         "__id__": 37
+      },
+      {
+        "__id__": 39
       }
     ],
     "_prefab": {
-      "__id__": 39
+      "__id__": 41
     },
     "_lpos": {
       "__type__": "cc.Vec3",
@@ -298,7 +301,7 @@
     },
     "_type": 0,
     "_fillType": 0,
-    "_sizeMode": 2,
+    "_sizeMode": 0,
     "_fillCenter": {
       "__type__": "cc.Vec2",
       "x": 0,
@@ -416,7 +419,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 30.4,
+      "width": 24,
       "height": 40
     },
     "_anchorPoint": {
@@ -803,7 +806,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 785.9999999999999,
+      "width": 786,
       "height": 1398
     },
     "_anchorPoint": {
@@ -899,6 +902,24 @@
     "fileId": "28TNE0wL5MlIo3h7usSmUl"
   },
   {
+    "__type__": "cc.BlockInputEvents",
+    "_name": "",
+    "_objFlags": 0,
+    "__editorExtras__": {},
+    "node": {
+      "__id__": 2
+    },
+    "_enabled": true,
+    "__prefab": {
+      "__id__": 40
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "cc.CompPrefabInfo",
+    "fileId": "05CmRkqn1LD6ARoYAFu7R6"
+  },
+  {
     "__type__": "cc.PrefabInfo",
     "root": {
       "__id__": 1
@@ -921,11 +942,11 @@
     },
     "_enabled": true,
     "__prefab": {
-      "__id__": 41
+      "__id__": 43
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 785.9999999999999,
+      "width": 786,
       "height": 1398
     },
     "_anchorPoint": {
@@ -949,7 +970,7 @@
     },
     "_enabled": true,
     "__prefab": {
-      "__id__": 43
+      "__id__": 45
     },
     "_alignFlags": 45,
     "_target": null,
@@ -985,7 +1006,7 @@
     },
     "_enabled": true,
     "__prefab": {
-      "__id__": 45
+      "__id__": 47
     },
     "container": {
       "__id__": 2
@@ -1009,7 +1030,7 @@
     },
     "_enabled": true,
     "__prefab": {
-      "__id__": 47
+      "__id__": 49
     },
     "_opacity": 255,
     "_id": ""
