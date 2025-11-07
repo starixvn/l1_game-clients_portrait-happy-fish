@@ -1,145 +1,145 @@
 
 icon-game.webp
-size: 752,526
+size: 1849,223
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 3D Light Big
-  rotate: false
-  xy: 2, 26
+  rotate: true
+  xy: 1286, 26
   size: 195, 53
   orig: 195, 75
   offset: 0, 22
   index: -1
 background
-  rotate: false
-  xy: 216, 96
+  rotate: true
+  xy: 447, 19
   size: 202, 428
   orig: 204, 437
   offset: 1, 8
   index: -1
 blue-gradient
   rotate: true
-  xy: 420, 322
+  xy: 877, 19
   size: 202, 312
   orig: 204, 437
   offset: 1, 1
   index: -1
 crab
   rotate: false
-  xy: 367, 16
-  size: 62, 78
+  xy: 1766, 4
+  size: 64, 71
   orig: 64, 80
-  offset: 1, 1
+  offset: 0, 4
   index: -1
 diamond
-  rotate: false
-  xy: 590, 232
+  rotate: true
+  xy: 1457, 2
   size: 42, 41
   orig: 44, 43
   offset: 1, 1
   index: -1
 flare
   rotate: false
-  xy: 586, 157
+  xy: 1538, 9
   size: 35, 35
   orig: 35, 35
   offset: 0, 0
   index: -1
 gold
-  rotate: false
-  xy: 431, 2
+  rotate: true
+  xy: 1191, 19
   size: 202, 93
   orig: 202, 93
   offset: 0, 0
   index: -1
 happy-fish
-  rotate: true
-  xy: 635, 162
-  size: 158, 115
-  orig: 158, 115
-  offset: 0, 0
+  rotate: false
+  xy: 1457, 46
+  size: 161, 175
+  orig: 206, 175
+  offset: 27, 0
   index: -1
 ocean-frame
-  rotate: false
-  xy: 2, 81
+  rotate: true
+  xy: 2, 9
   size: 212, 443
   orig: 218, 450
   offset: 1, 6
   index: -1
 octopus
   rotate: true
-  xy: 286, 11
-  size: 83, 79
+  xy: 1766, 152
+  size: 69, 81
   orig: 85, 81
-  offset: 1, 1
+  offset: 8, 0
   index: -1
 pearl
   rotate: true
-  xy: 100, 3
+  xy: 1384, 10
   size: 21, 20
   orig: 23, 22
   offset: 1, 1
   index: -1
 sea-grass
   rotate: true
-  xy: 2, 2
+  xy: 1286, 2
   size: 22, 96
   orig: 22, 96
   offset: 0, 0
   index: -1
 sting-ray
   rotate: false
-  xy: 199, 21
+  xy: 1630, 3
   size: 85, 58
-  orig: 85, 58
-  offset: 0, 0
+  orig: 85, 84
+  offset: 0, 13
   index: -1
 treasure-1
-  rotate: false
-  xy: 536, 226
+  rotate: true
+  xy: 1717, 9
   size: 52, 47
   orig: 54, 49
   offset: 1, 1
   index: -1
 treasure-2
-  rotate: true
-  xy: 536, 275
+  rotate: false
+  xy: 1730, 77
   size: 45, 73
   orig: 47, 75
   offset: 1, 1
   index: -1
 treasure-3
-  rotate: true
-  xy: 536, 179
+  rotate: false
+  xy: 1777, 102
   size: 45, 48
   orig: 49, 50
   offset: 1, 1
   index: -1
 treasure-4
   rotate: false
-  xy: 420, 97
+  xy: 1575, 11
   size: 53, 33
   orig: 55, 35
   offset: 1, 1
   index: -1
 treasure-5
-  rotate: false
-  xy: 590, 194
+  rotate: true
+  xy: 1500, 7
   size: 37, 36
   orig: 39, 38
   offset: 1, 1
   index: -1
 water-splash-back
   rotate: true
-  xy: 635, 2
+  xy: 1620, 63
   size: 158, 108
   orig: 248, 451
   offset: 90, 120
   index: -1
 water-splash-front
   rotate: true
-  xy: 420, 132
+  xy: 1341, 33
   size: 188, 114
   orig: 188, 114
   offset: 0, 0
