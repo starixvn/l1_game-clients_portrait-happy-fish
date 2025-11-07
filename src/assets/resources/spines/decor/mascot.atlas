@@ -1,0 +1,34 @@
+
+mascot.webp
+size: 431,431
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fish1
+  rotate: false
+  xy: 1, 184
+  size: 228, 246
+  orig: 228, 246
+  offset: 0, 0
+  index: -1
+fish2
+  rotate: false
+  xy: 1, 34
+  size: 221, 148
+  orig: 221, 148
+  offset: 0, 0
+  index: -1
+fish3
+  rotate: false
+  xy: 231, 199
+  size: 199, 231
+  orig: 199, 231
+  offset: 0, 0
+  index: -1
+fish4
+  rotate: false
+  xy: 231, 3
+  size: 166, 194
+  orig: 166, 194
+  offset: 0, 0
+  index: -1

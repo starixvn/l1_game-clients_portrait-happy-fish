@@ -1,195 +1,1092 @@
 
 transition.webp
-size: 1370,306
+size: 2022,1778
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-effect-win/win00
+jpeg-black/Water-vfx0000
+  rotate: false
+  xy: 2, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0001
+  rotate: false
+  xy: 2, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0002
+  rotate: false
+  xy: 790, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0003
+  rotate: false
+  xy: 2, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0004
+  rotate: false
+  xy: 790, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0005
+  rotate: true
+  xy: 1578, 990
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0006
   rotate: false
   xy: 2, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win01
+jpeg-black/Water-vfx0007
+  rotate: false
+  xy: 790, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0008
+  rotate: false
+  xy: 790, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0009
+  rotate: true
+  xy: 1578, 202
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+
+transition2.webp
+size: 2022,1778
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jpeg-black/Water-vfx0010
+  rotate: false
+  xy: 2, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0011
+  rotate: false
+  xy: 2, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0012
+  rotate: false
+  xy: 790, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0013
+  rotate: false
+  xy: 2, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0014
+  rotate: false
+  xy: 790, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0015
+  rotate: true
+  xy: 1578, 990
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0016
   rotate: false
   xy: 2, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win02
+jpeg-black/Water-vfx0017
   rotate: false
-  xy: 154, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 790, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win03
+jpeg-black/Water-vfx0018
   rotate: false
-  xy: 154, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 790, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win04
-  rotate: false
-  xy: 154, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+jpeg-black/Water-vfx0019
+  rotate: true
+  xy: 1578, 202
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win05
+
+transition3.webp
+size: 2022,1778
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jpeg-black/Water-vfx0020
   rotate: false
-  xy: 306, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 2, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win06
+jpeg-black/Water-vfx0021
   rotate: false
-  xy: 306, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 2, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win07
+jpeg-black/Water-vfx0022
   rotate: false
-  xy: 306, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 790, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win08
+jpeg-black/Water-vfx0023
   rotate: false
-  xy: 458, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 2, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win09
+jpeg-black/Water-vfx0024
   rotate: false
-  xy: 458, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 790, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win10
-  rotate: false
-  xy: 458, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+jpeg-black/Water-vfx0025
+  rotate: true
+  xy: 1578, 990
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win11
+jpeg-black/Water-vfx0026
   rotate: false
-  xy: 610, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 2, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win12
+jpeg-black/Water-vfx0027
   rotate: false
-  xy: 610, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 790, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win13
+jpeg-black/Water-vfx0028
   rotate: false
-  xy: 610, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 790, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win14
-  rotate: false
-  xy: 610, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+jpeg-black/Water-vfx0029
+  rotate: true
+  xy: 1578, 202
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win15
+
+transition4.webp
+size: 2022,1778
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jpeg-black/Water-vfx0030
   rotate: false
-  xy: 762, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 2, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win16
+jpeg-black/Water-vfx0031
   rotate: false
-  xy: 762, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 2, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win17
+jpeg-black/Water-vfx0032
   rotate: false
-  xy: 762, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 790, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win18
+jpeg-black/Water-vfx0033
   rotate: false
-  xy: 914, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 2, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win19
+jpeg-black/Water-vfx0034
   rotate: false
-  xy: 914, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 790, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win20
-  rotate: false
-  xy: 914, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+jpeg-black/Water-vfx0035
+  rotate: true
+  xy: 1578, 990
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win21
+jpeg-black/Water-vfx0036
   rotate: false
-  xy: 1066, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 2, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win22
+jpeg-black/Water-vfx0037
   rotate: false
-  xy: 1066, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 790, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win23
+jpeg-black/Water-vfx0038
   rotate: false
-  xy: 1066, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 790, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win24
-  rotate: false
-  xy: 1218, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+jpeg-black/Water-vfx0039
+  rotate: true
+  xy: 1578, 202
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win26
+
+transition5.webp
+size: 2022,1778
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jpeg-black/Water-vfx0040
   rotate: false
-  xy: 2, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 2, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
-effect-win/win25
+jpeg-black/Water-vfx0041
   rotate: false
-  xy: 2, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 2, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0042
+  rotate: false
+  xy: 790, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0043
+  rotate: false
+  xy: 2, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0044
+  rotate: false
+  xy: 790, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0045
+  rotate: true
+  xy: 1578, 990
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0046
+  rotate: false
+  xy: 2, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0047
+  rotate: false
+  xy: 790, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0048
+  rotate: false
+  xy: 790, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0049
+  rotate: true
+  xy: 1578, 202
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+
+transition6.webp
+size: 2022,1778
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jpeg-black/Water-vfx0050
+  rotate: false
+  xy: 2, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0051
+  rotate: false
+  xy: 2, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0052
+  rotate: false
+  xy: 790, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0053
+  rotate: false
+  xy: 2, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0054
+  rotate: false
+  xy: 790, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0055
+  rotate: true
+  xy: 1578, 990
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0056
+  rotate: false
+  xy: 2, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0057
+  rotate: false
+  xy: 790, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0058
+  rotate: false
+  xy: 790, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0059
+  rotate: true
+  xy: 1578, 202
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+
+transition7.webp
+size: 1678,1578
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jpeg-black/Water-vfx0060
+  rotate: true
+  xy: 2, 790
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0061
+  rotate: true
+  xy: 2, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0062
+  rotate: false
+  xy: 446, 1134
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0063
+  rotate: true
+  xy: 1234, 790
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0064
+  rotate: false
+  xy: 446, 690
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0065
+  rotate: true
+  xy: 1234, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0066
+  rotate: false
+  xy: 446, 246
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0067
+  rotate: false
+  xy: 446, 246
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0068
+  rotate: false
+  xy: 446, 246
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0069
+  rotate: false
+  xy: 446, 246
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0070
+  rotate: false
+  xy: 446, 246
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-black/Water-vfx0071
+  rotate: false
+  xy: 446, 246
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+
+transition8.webp
+size: 2022,1778
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jpeg-color/Water-vfx0000
+  rotate: false
+  xy: 2, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0001
+  rotate: false
+  xy: 2, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0002
+  rotate: false
+  xy: 790, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0003
+  rotate: false
+  xy: 2, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0004
+  rotate: false
+  xy: 790, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0005
+  rotate: true
+  xy: 1578, 990
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0006
+  rotate: false
+  xy: 2, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0007
+  rotate: false
+  xy: 790, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0008
+  rotate: false
+  xy: 790, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0009
+  rotate: true
+  xy: 1578, 202
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+
+transition9.webp
+size: 2022,1778
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jpeg-color/Water-vfx0010
+  rotate: false
+  xy: 2, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0011
+  rotate: false
+  xy: 2, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0012
+  rotate: false
+  xy: 790, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0013
+  rotate: false
+  xy: 2, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0014
+  rotate: false
+  xy: 790, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0015
+  rotate: true
+  xy: 1578, 990
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0016
+  rotate: false
+  xy: 2, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0017
+  rotate: false
+  xy: 790, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0018
+  rotate: false
+  xy: 790, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0019
+  rotate: true
+  xy: 1578, 202
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+
+transition10.webp
+size: 2022,1778
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jpeg-color/Water-vfx0020
+  rotate: false
+  xy: 2, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0021
+  rotate: false
+  xy: 2, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0022
+  rotate: false
+  xy: 790, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0023
+  rotate: false
+  xy: 2, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0024
+  rotate: false
+  xy: 790, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0025
+  rotate: true
+  xy: 1578, 990
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0026
+  rotate: false
+  xy: 2, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0027
+  rotate: false
+  xy: 790, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0028
+  rotate: false
+  xy: 790, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0029
+  rotate: true
+  xy: 1578, 202
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+
+transition11.webp
+size: 2022,1778
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jpeg-color/Water-vfx0030
+  rotate: false
+  xy: 2, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0031
+  rotate: false
+  xy: 2, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0032
+  rotate: false
+  xy: 790, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0033
+  rotate: false
+  xy: 2, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0034
+  rotate: false
+  xy: 790, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0035
+  rotate: true
+  xy: 1578, 990
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0036
+  rotate: false
+  xy: 2, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0037
+  rotate: false
+  xy: 790, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0038
+  rotate: false
+  xy: 790, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0039
+  rotate: true
+  xy: 1578, 202
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+
+transition12.webp
+size: 2022,1778
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jpeg-color/Water-vfx0040
+  rotate: false
+  xy: 2, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0041
+  rotate: false
+  xy: 2, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0042
+  rotate: false
+  xy: 790, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0043
+  rotate: false
+  xy: 2, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0044
+  rotate: false
+  xy: 790, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0045
+  rotate: true
+  xy: 1578, 990
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0046
+  rotate: false
+  xy: 2, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0047
+  rotate: false
+  xy: 790, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0048
+  rotate: false
+  xy: 790, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0049
+  rotate: true
+  xy: 1578, 202
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+
+transition13.webp
+size: 2022,1778
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jpeg-color/Water-vfx0050
+  rotate: false
+  xy: 2, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0051
+  rotate: false
+  xy: 2, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0052
+  rotate: false
+  xy: 790, 1334
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0053
+  rotate: false
+  xy: 2, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0054
+  rotate: false
+  xy: 790, 890
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0055
+  rotate: true
+  xy: 1578, 990
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0056
+  rotate: false
+  xy: 2, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0057
+  rotate: false
+  xy: 790, 446
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0058
+  rotate: false
+  xy: 790, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0059
+  rotate: true
+  xy: 1578, 202
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+
+transition14.webp
+size: 1678,1578
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jpeg-color/Water-vfx0060
+  rotate: true
+  xy: 2, 790
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0061
+  rotate: true
+  xy: 2, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0062
+  rotate: false
+  xy: 446, 1134
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0063
+  rotate: true
+  xy: 1234, 790
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0064
+  rotate: false
+  xy: 446, 690
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0065
+  rotate: true
+  xy: 1234, 2
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0066
+  rotate: false
+  xy: 446, 246
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0067
+  rotate: false
+  xy: 446, 246
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0068
+  rotate: false
+  xy: 446, 246
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0069
+  rotate: false
+  xy: 446, 246
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0070
+  rotate: false
+  xy: 446, 246
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
+  index: -1
+jpeg-color/Water-vfx0071
+  rotate: false
+  xy: 446, 246
+  size: 786, 442
+  orig: 786, 442
+  offset: 0, 0
   index: -1
