@@ -1,0 +1,118 @@
+
+effect-bonus.webp
+size: 1197,225
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BONUS
+  rotate: false
+  xy: 2, 95
+  size: 433, 128
+  orig: 461, 204
+  offset: 18, 37
+  index: -1
+coconut
+  rotate: false
+  xy: 763, 12
+  size: 268, 211
+  orig: 274, 306
+  offset: 4, 27
+  index: -1
+leaf
+  rotate: false
+  xy: 437, 84
+  size: 324, 139
+  orig: 352, 172
+  offset: 14, 4
+  index: -1
+vfx/water00
+  rotate: false
+  xy: 2, 13
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water01
+  rotate: false
+  xy: 1033, 143
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water02
+  rotate: false
+  xy: 84, 13
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water03
+  rotate: false
+  xy: 1033, 61
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water04
+  rotate: false
+  xy: 1115, 143
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water05
+  rotate: false
+  xy: 166, 13
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water06
+  rotate: false
+  xy: 1115, 61
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water07
+  rotate: false
+  xy: 248, 13
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water08
+  rotate: false
+  xy: 330, 13
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water09
+  rotate: false
+  xy: 412, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water10
+  rotate: false
+  xy: 494, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water11
+  rotate: false
+  xy: 576, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water12
+  rotate: false
+  xy: 658, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
